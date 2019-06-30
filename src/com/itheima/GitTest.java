@@ -14,5 +14,8 @@ public class GitTest {
         }
 
 
+        System.out.println("下载后测试...");
+
+
     }
 }
